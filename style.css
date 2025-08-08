@@ -193,7 +193,10 @@ header h1 {
 .logo.right {
     margin-left: auto;
 }
-
+.logo.center {
+  display: block;
+  margin: 0 auto;
+}
 nav {
     background-color: #004080;
     padding: 10px 0;
@@ -318,3 +321,4 @@ section ul li {
   border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
+
